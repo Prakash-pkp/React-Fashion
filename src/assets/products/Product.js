@@ -1,0 +1,32 @@
+export const clothingData = [
+  {
+    id: 1,
+    title:"Plain Shirt",
+    category: "Topwear",
+    subcategory: "shirt",
+    price: 19.99,
+    color: "Red",
+    size: "M",
+    image: "https://www.beyoung.in/api/cache/catalog/products/new_checked_shirt_image_9_12_2022/navy_blue_cotton_solid_shirts_for_men_base_19_10_2023_700x933.jpg",
+  },
+  {
+    id: 2,
+    title:"Plain T-Shirt",
+    category: "Topwear",
+    subcategory: "tshirt",
+    price: 49.99,
+    color: "Blue",
+    size: "L",
+    image: "https://www.beyoung.in/api/cache/catalog/products/plain_new_update_images_2_5_2022/dream_blue_plain_t-shirt_neck_and_sleeve_29_07_2023_700x933.jpg",
+  },
+  {
+    id: 3,
+    title:"Dennim Jacket",
+    category: "Topwear",
+    subcategory: "denimjacket",
+    price: 39.99,
+    color: "Black",
+    size: "S",
+    image: "https://www.beyoung.in/api/cache/catalog/products/new_shirt_upload_21_10_2022/orange_flannel_shirt_for_men_base_18_01_2024_700x933.jpg",
+  },
+];
